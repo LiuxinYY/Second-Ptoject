@@ -137,7 +137,9 @@ public int getCnumber() {
 			System.out.println(s1.toString());
 ```
 # 五、实验结果
-1. 学生选课成功，并且课程中老师信息与所给老师信息相等时（一门课程只由一门老师教授），输出结果
-![图片](https://p.qlogo.cn/qqmail_head/ajNVdqHZLLCjXzl2bwPUPHEQOOzARqLRmZFqzPgyAkzdweOBibC68M8Sof8atNPjFjb2wpZzEibR0/0)
-# 六、实验感想
+1. 学生选课成功，并且课程中老师信息与所给老师信息
 
+相等时（一门课程只由一门老师教授），输出结果
+![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/ajNVdqHZLLCjXzl2bwPUPHEQOOzARqLRmZFqzPgyAkzdweOBibC68M8Sof8atNPjFjb2wpZzEibR0/0)
+
+# 六、实验感想
